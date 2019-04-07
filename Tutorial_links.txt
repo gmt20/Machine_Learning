@@ -1,1 +1,2 @@
 https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
